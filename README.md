@@ -1,1 +1,1 @@
-# konat-tabani
+# Konat Tabanı
