@@ -1,1 +1,1 @@
-# Konat Tabanı
+# Konat Ocağı
